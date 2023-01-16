@@ -20,14 +20,12 @@ nav {
   flex-direction: column;
   background-color: lightgreen;
   height: 200px;
-  /* padding: 200px; */
 }
 nav > div {
-  /* width: 100%; */
   margin: 0 auto;
   text-align: center;
   color: white;
   font-family: monospace;
-  font-size: 5em;
+  font-size: 4em;
   font-weight: bolder;
 }
